@@ -1,0 +1,1 @@
+This is a GitHub oragnization to store all my experiemental pet projects (mostly created for the sake of learning new tech or just cuz I'm curious about creating/porting any kind of code) that I might or might not continue working on in the future.
